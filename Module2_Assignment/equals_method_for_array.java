@@ -1,4 +1,5 @@
 /*
+QUESTION :
 Accept an array from a user, duplicate it by creating a similar array and then try to compare it by equating both arrays (using the == operator). The result will be false as the duplicate arrays won't be equal to each other. Try to find the reason behind it and also make the same by using a different function
 */
 
