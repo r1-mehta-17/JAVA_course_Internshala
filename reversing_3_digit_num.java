@@ -24,6 +24,7 @@ public class Main {
         a /= 10;
         b += (a % 10);
         System.out.println("The reversed number is : " + b);
+        sc.close();
     }
 }
 
