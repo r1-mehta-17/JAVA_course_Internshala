@@ -1,4 +1,5 @@
 /*
+QUESTION : 
 Inside the IntelliJ IDEA modify the code within Main.java to implement Multi-level Inheritance.
 Create a new class Puppy that contains instance variables of "size" and "age".
 The Puppy should inherit from class Dog which in turn inherits from class Animal.
